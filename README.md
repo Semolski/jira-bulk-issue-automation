@@ -162,3 +162,6 @@ Custom fields differ per Jira instance. Confirm:
 
 - your user has permission to set it
 
+## License
+
+#### This project is licensed under the MIT License.
